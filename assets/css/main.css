@@ -991,10 +991,6 @@ input, select, textarea {
 		border: none;
 	}
 
-		margin: 0 0 2rem 0;
-		width: 100%;
-	}
-
 		table tbody tr {
 			border: solid 1px #ffffff;
 			border-left: 0;
