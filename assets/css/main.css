@@ -980,6 +980,17 @@ input, select, textarea {
 		text-decoration: underline;
 	}
 
+	.form-wrapper {
+		margin: 2rem 0;
+		overflow: hidden;
+	}
+
+	.form-wrapper iframe {
+		width: 100%;
+		min-height: 800px;
+		border: none;
+	}
+
 		margin: 0 0 2rem 0;
 		width: 100%;
 	}
